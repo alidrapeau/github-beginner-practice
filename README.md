@@ -11,3 +11,6 @@ This repository is used to practice GitHub basics, manage, project files, and un
 - Creating and editing README files
 - Making commits
 - Reviewing repository history
+
+## Getting Started
+To explore this repository, review the README file and the commit history. You can also make a small change to practice editing files and saving commits.
