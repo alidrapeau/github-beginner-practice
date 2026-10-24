@@ -22,6 +22,8 @@ To explore this repository, review the README file and the commit history. You c
 4. Preview the changes.
 5. Commit the changes with a descriptive message.
 
+A commit saves a change to the repository's history. Use a descriptive commit message so you can identify the change later.
+
 ## Features
 - Beginner-friendly GitHub practice
 - README editing and formatting
