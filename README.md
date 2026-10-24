@@ -14,3 +14,10 @@ This repository is used to practice GitHub basics, manage, project files, and un
 
 ## Getting Started
 To explore this repository, review the README file and the commit history. You can also make a small change to practice editing files and saving commits.
+
+### Basic Workflow
+1. Open the repository.
+2. Select the README.md file.
+3. Edit the file using the pencil icon.
+4. Preview the changes.
+5. Commit the changes with a descriptive message.
