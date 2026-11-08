@@ -26,3 +26,7 @@ To explore this repository, review the README file and the commit history. You c
 - Beginner-friendly GitHub practice
 - README editing and formatting
 - Commit history tracking
+
+## Documentation Samples
+
+- [Windows 11 File Backup Procedure](Windows-11-File-Backup-Procedure.pdf) - A step-by-step guide explaining how to back up files to an external USB drive.
