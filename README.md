@@ -30,3 +30,4 @@ To explore this repository, review the README file and the commit history. You c
 ## Documentation Samples
 
 - [Windows 11 File Backup Procedure](Windows-11-File-Backup-Procedure.pdf) - A step-by-step guide explaining how to back up files to an external USB drive.
+- [JSONPlaceholder API Documentation](JSONPlaceholder-API-Documentation.pdf) – A beginner-friendly API documentation guide covering endpoints, HTTP methods, JSON responses, status codes, and troubleshooting.
